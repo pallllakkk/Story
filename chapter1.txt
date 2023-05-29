@@ -1,1 +1,7 @@
-If it makes yo happy , it doesn't have to make sense to anybody .
+<<<<<<< HEAD
+it is a new day
+asdfghjkloiut
+=======
+Hey it's Formula 1 .
+bdbaycwg
+>>>>>>> hey

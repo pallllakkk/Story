@@ -1,1 +1,5 @@
-It's a good day.
+<<<<<<< HEAD
+i am not talking 
+=======
+bmijjgnd njgbu
+>>>>>>> hey

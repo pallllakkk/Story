@@ -1,1 +1,6 @@
-Intelligent are those who have the ability to adapt. 
+<<<<<<< HEAD
+beautiful sunset
+=======
+Welcome to Tennis.
+bitvhfkughrghenc
+>>>>>>> hey
